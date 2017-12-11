@@ -8,4 +8,9 @@ $(function() {
     }
   });
 
+  $('#close-modal').click(function(e) {
+    e.preventDefault();
+    document.documentElement.classList.remove('mouse-out');
+  });
+
 });
