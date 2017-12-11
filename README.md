@@ -5,3 +5,5 @@ In this CSS Animation project, we build one long-page Moon Rokcs webpage. We lev
 The second part of this project involves a modal that will appears smoothly into view when mouse leaves the window. We leverage session storage to check whether modal has been opened before. If it has been opened before, it stops there and never open again unless we open the page in another window or tab to create another session.
 
 [View demo site here.](http://edwinchen.co/css_animation_parallax_scrolling/)
+
+![Preview](screenshot.png)
